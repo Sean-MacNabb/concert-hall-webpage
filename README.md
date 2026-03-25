@@ -1,4 +1,4 @@
-# Crescendo Hall Event Center Website
+# Crescendo Hall Event Center Webpage
 
 ## Project Purpose
 
@@ -17,31 +17,26 @@ Key concepts practiced include:
 # Website Preview
 
 ## Home Page
-
 ![Home Page](screenshots/home-page.png)
 
 The homepage introduces Crescendo Hall and highlights featured performances with clear calls to action for viewing events or purchasing tickets.
 
 ## Events Page
-
 ![Events Page](screenshots/events-page.png)
 
 The events page displays upcoming performances using a structured card layout that includes dates, images, and performance information.
 
 ## Tickets Page
-
 ![Tickets Page](screenshots/tickets-page.png)
 
 The tickets page presents seating tiers and pricing options, allowing visitors to quickly compare ticket experiences.
 
 ## About Page
-
 ![About Page](screenshots/about-page.png)
 
 The about page explains the venue’s atmosphere, design philosophy, and the type of performances hosted at Crescendo Hall.
 
 ## Contact Page
-
 ![Contact Page](screenshots/contact-page.png)
 
 The contact page provides visitor information and includes a contact form for guest inquiries.
