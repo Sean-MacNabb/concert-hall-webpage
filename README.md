@@ -84,7 +84,7 @@ The contact page provides visitor information and includes a contact form for gu
 
 # How to run
 
-1. Clone the repository: https://github.com/Sean-MacNabb/Event_Center_Website_Assignment.git
+1. Clone the repository: https://github.com/Sean-MacNabb/Concert_Hall_Webpage_Project.git
 2. Open 'index.html' in your browser or run using a local development server
 
 # Potential Future Enhancements
